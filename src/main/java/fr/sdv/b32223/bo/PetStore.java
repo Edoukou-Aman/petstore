@@ -13,7 +13,7 @@ public class PetStore{
     @Column(name = "managerName")
     private String managerName;
     @OneToOne
-    @JoinColumn(unique = true)
+    @JoinColumn(name = "address_id")
     private Address address;
     @OneToMany(mappedBy = "petStore")
     private Set<Animal> animals;

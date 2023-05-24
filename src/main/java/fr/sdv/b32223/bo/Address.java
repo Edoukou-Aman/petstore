@@ -26,12 +26,13 @@ public class Address {
     public Address() {}
 
     // Constructeur complet
-    public Address(Long id, String number, String street, String zipCode, String city) {
+    public Address(String number, String street, String zipCode, String city) {
         this.number = number;
         this.street = street;
         this.zipCode = zipCode;
         this.city = city;
     }
+
 
     // Getters
     public Long getId() {
@@ -86,12 +87,11 @@ public class Address {
     //To string
     @Override
     public String toString() {
-        return "Address{" +
-                "id=" + id +
-                ", number='" + number + '\'' +
-                ", street='" + street + '\'' +
-                ", zipCode='" + zipCode + '\'' +
-                ", city='" + city + '\'' +
-                '}';
+        return "Address => \n" +
+                "id = " + id +
+                "\n, number='" + number + '\'' +
+                "\n, street='" + street + '\'' +
+                "\n, zipCode='" + zipCode + '\'' +
+                "\n, city='" + city ;
     }
 }

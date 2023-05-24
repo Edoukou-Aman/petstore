@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e0de27f-2113-40ea-bcbb-7b260de2ca0d" name="Changes" comment="Création du projet">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/bo/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/bo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/bo/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/bo/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/bo/FishLivEnv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/bo/PetStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/bo/ProdType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/bo/Product.java" afterDir="false" />
+    <list default="true" id="9e0de27f-2113-40ea-bcbb-7b260de2ca0d" name="Changes" comment="Projet / BD / Mapping">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/bo/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/bo/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/bo/PetStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/bo/PetStore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +56,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="fr.sdv.b32223" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="fr.sdv.b32223.bo" />
     </key>
@@ -85,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684916466437</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Projet / BD / Mapping">
+      <created>1684930188154</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684930188154</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Création du projet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Création du projet" />
+    <MESSAGE value="Projet / BD / Mapping" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projet / BD / Mapping" />
   </component>
 </project>

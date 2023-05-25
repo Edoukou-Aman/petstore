@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e0de27f-2113-40ea-bcbb-7b260de2ca0d" name="Changes" comment="Projet / BD / Mapping">
+    <list default="true" id="9e0de27f-2113-40ea-bcbb-7b260de2ca0d" name="Changes" comment="Requêtes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/bo/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/bo/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/bo/PetStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/bo/PetStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/bo/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/sdv/b32223/bo/Animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684930188154</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Requêtes">
+      <created>1684934719609</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684934719609</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Création du projet" />
     <MESSAGE value="Projet / BD / Mapping" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projet / BD / Mapping" />
+    <MESSAGE value="Requêtes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Requêtes" />
   </component>
 </project>
